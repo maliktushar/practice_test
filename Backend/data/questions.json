@@ -1,0 +1,477 @@
+[
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "What does HTML stand for?",
+        "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyperlinking Text Marking Language"],
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "What are the hooks in React?",
+        "options": ["Use state", "Use Effect", "Both", "None of the above"],
+        "answer": "Both"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "What does CSS stand for?",
+        "options": ["Cascading Style Sheets", "Cascading Simple Sheets", "Colorful Style Sheets", "Computer Style Sheets"],
+        "answer": "Cascading Style Sheets"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "options": ["<style>", "<script>", "<css>", "<link>"],
+        "answer": "<style>"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "What does DOM stand for?",
+        "options": ["Document Object Model", "Display Object Management", "Digital Object Model", "Document Oriented Model"],
+        "answer": "Document Object Model"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "Which company developed JavaScript?",
+        "options": ["Netscape", "Microsoft", "Sun Microsystems", "Oracle"],
+        "answer": "Netscape"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "What is the correct HTML element for inserting a line break?",
+        "options": ["<br>", "<break>", "<lb>", "<newline>"],
+        "answer": "<br>"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "Which attribute is used to provide an alternate text for an image, if the image cannot be displayed?",
+        "options": ["title", "alt", "src", "longdesc"],
+        "answer": "alt"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "Which HTML attribute is used to define inline styles?",
+        "options": ["style", "styles", "class", "font"],
+        "answer": "style"
+    },
+    {
+        "domain": "web development",
+        "experience": "beginner",
+        "question": "How do you create a function in JavaScript?",
+        "options": ["function myFunction()", "function:myFunction()", "function = myFunction()", "def myFunction()"],
+        "answer": "function myFunction()"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "Which of the following is not a JavaScript data type?",
+        "options": ["String", "Boolean", "Undefined", "Float"],
+        "answer": "Float"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "Which HTML attribute is used to specify that an input field must be filled out before submitting the form?",
+        "options": ["required", "validate", "placeholder", "formvalidate"],
+        "answer": "required"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "Which CSS property controls the text size?",
+        "options": ["font-size", "text-size", "font-style", "text-style"],
+        "answer": "font-size"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "In CSS, what does the 'Z-index' property specify?",
+        "options": ["The stack order of an element", "The transparency of an element", "The font size of an element", "The background color of an element"],
+        "answer": "The stack order of an element"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "What is the correct JavaScript syntax to write 'Hello World'?",
+        "options": ["document.write('Hello World')", "response.write('Hello World')", "print('Hello World')", "console.log('Hello World')"],
+        "answer": "document.write('Hello World')"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "Which built-in method returns the characters in a string beginning at the specified location?",
+        "options": ["substr()", "getSubstring()", "slice()", "None of the above"],
+        "answer": "substr()"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "Which of the following is an advantage of using JavaScript?",
+        "options": ["Less server interaction", "Immediate feedback to the visitors", "Increased interactivity", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "Which method is used to create a new element in the DOM?",
+        "options": ["createElement()", "newElement()", "createNode()", "newNode()"],
+        "answer": "createElement()"
+    },
+    {
+        "domain": "web development",
+        "experience": "intermediate",
+        "question": "What does SQL stand for?",
+        "options": ["Structured Query Language", "Stylish Question Language", "Stylesheet Query Language", "Statement Question Language"],
+        "answer": "Structured Query Language"
+    },
+    {
+        "domain": "web development",
+        "experience": "advanced",
+        "question": "Which JavaScript framework is maintained by Facebook?",
+        "options": ["Angular", "React", "Vue", "Svelte"],
+        "answer": "React"
+    },
+    {
+        "domain": "web development",
+        "experience": "advanced",
+        "question": "What is the purpose of the 'use strict' directive in JavaScript?",
+        "options": ["Enables strict mode", "Disables strict mode", "Enforces strict data types", "None of the above"],
+        "answer": "Enables strict mode"
+    },
+    {
+        "domain": "web development",
+        "experience": "advanced",
+        "question": "Which method is used to remove an element from the DOM?",
+        "options": ["removeChild()", "deleteChild()", "removeNode()", "deleteNode()"],
+        "answer": "removeChild()"
+    },
+    {
+        "domain": "web development",
+        "experience": "advanced",
+        "question": "Which of the following is a new feature in HTML5?",
+        "options": ["<video> element", "<input> element", "<select> element", "<textarea> element"],
+        "answer": "<video> element"
+    },
+    {
+        "domain": "web development",
+        "experience": "advanced",
+        "question": "Which is the correct syntax for defining a class in CSS?",
+        "options": [".classname { }", "#classname { }", "classname { }", "*classname { }"],
+        "answer": ".classname { }"
+    },
+    {
+        "domain": "web development",
+        "experience": "advanced",
+        "question": "Which of the following is not a valid CSS property?",
+        "options": ["color", "font-size", "text-align", "font-color"],
+        "answer": "font-color"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "Which of the following is a popular library for data visualization in Python?",
+        "options": ["NumPy", "Pandas", "Matplotlib", "Scikit-learn"],
+        "answer": "Matplotlib"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "What does CSV stand for?",
+        "options": ["Comma Separated Values", "Character Separated Values", "Columnar Separated Values", "Column Separated Values"],
+        "answer": "Comma Separated Values"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "Which of the following is not a data type in Python?",
+        "options": ["int", "float", "double", "str"],
+        "answer": "double"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "What is the command to install a Python package using pip?",
+        "options": ["pip install package_name", "install package_name", "pip get package_name", "python install package_name"],
+        "answer": "pip install package_name"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "Which function is used to read a CSV file in pandas?",
+        "options": ["read_csv()", "readFile()", "open_csv()", "read()"],
+        "answer": "read_csv()"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "Which library is used for numerical operations in Python?",
+        "options": ["NumPy", "Pandas", "Matplotlib", "Seaborn"],
+        "answer": "NumPy"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "What does NaN stand for in data science?",
+        "options": ["Not a Number", "No actual Number", "Null and Null", "None and None"],
+        "answer": "Not a Number"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "Which method is used to find the shape of a DataFrame in pandas?",
+        "options": ["shape()", "size()", "dimensions()", "form()"],
+        "answer": "shape()"
+    },
+    {
+        "domain": "data science",
+        "experience": "beginner",
+        "question": "What is the correct syntax for importing a library in Python?",
+        "options": ["import library_name", "include library_name", "require library_name", "use library_name"],
+        "answer": "import library_name"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "What does PCA stand for in data science?",
+        "options": ["Principal Component Analysis", "Principal Coordinate Analysis", "Primary Component Analysis", "Principal Coordinate Algorithm"],
+        "answer": "Principal Component Analysis"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "Which of the following is not a type of machine learning?",
+        "options": ["Supervised learning", "Unsupervised learning", "Reinforcement learning", "Intuitive learning"],
+        "answer": "Intuitive learning"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "What is the main purpose of the pandas library in Python?",
+        "options": ["Data manipulation and analysis", "Numerical computations", "Data visualization", "Machine learning"],
+        "answer": "Data manipulation and analysis"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "Which method is used to fill missing values in pandas?",
+        "options": ["fillna()", "fillmissing()", "nafill()", "fillvalues()"],
+        "answer": "fillna()"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "What is the purpose of the 'groupby' method in pandas?",
+        "options": ["To split data into groups based on some criteria", "To sort data", "To filter data", "To merge data"],
+        "answer": "To split data into groups based on some criteria"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "Which of the following is a data visualization library in Python?",
+        "options": ["Matplotlib", "NumPy", "SciPy", "pandas"],
+        "answer": "Matplotlib"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "What does the 'describe()' function in pandas do?",
+        "options": ["Provides summary statistics of numerical columns", "Displays the first few rows of the DataFrame", "Displays the column names", "Removes missing values"],
+        "answer": "Provides summary statistics of numerical columns"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "Which Python library is used for machine learning?",
+        "options": ["Scikit-learn", "NumPy", "Pandas", "Matplotlib"],
+        "answer": "Scikit-learn"
+    },
+    {
+        "domain": "data science",
+        "experience": "intermediate",
+        "question": "What is the purpose of the 'merge' function in pandas?",
+        "options": ["To combine DataFrames", "To sort DataFrames", "To filter DataFrames", "To reshape DataFrames"],
+        "answer": "To combine DataFrames"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "Which algorithm is used for clustering in unsupervised learning?",
+        "options": ["K-means", "Linear Regression", "Decision Tree", "Random Forest"],
+        "answer": "K-means"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "What does AUC-ROC stand for?",
+        "options": ["Area Under the Curve - Receiver Operating Characteristic", "Analysis Under the Curve - Rate of Change", "Area Under the Column - Receiver Output Curve", "Analysis Under the Column - Rate of Change"],
+        "answer": "Area Under the Curve - Receiver Operating Characteristic"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "Which Python library is used for deep learning?",
+        "options": ["TensorFlow", "NumPy", "Pandas", "Matplotlib"],
+        "answer": "TensorFlow"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "Which of the following is not a type of neural network?",
+        "options": ["Convolutional Neural Network", "Recurrent Neural Network", "Support Vector Network", "Generative Adversarial Network"],
+        "answer": "Support Vector Network"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "Which of the following is used to evaluate the performance of a classification model?",
+        "options": ["Confusion Matrix", "Mean Squared Error", "R-squared", "Mean Absolute Error"],
+        "answer": "Confusion Matrix"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "What does the term 'overfitting' refer to in machine learning?",
+        "options": ["A model that performs well on training data but poorly on test data", "A model that performs well on both training and test data", "A model that performs poorly on both training and test data", "A model that performs poorly on training data but well on test data"],
+        "answer": "A model that performs well on training data but poorly on test data"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "Which technique is used for dimensionality reduction?",
+        "options": ["PCA", "Linear Regression", "Logistic Regression", "Decision Tree"],
+        "answer": "PCA"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "What is the purpose of the 'drop' function in pandas?",
+        "options": ["To remove rows or columns", "To sort the DataFrame", "To filter the DataFrame", "To merge DataFrames"],
+        "answer": "To remove rows or columns"
+    },
+    {
+        "domain": "data science",
+        "experience": "advanced",
+        "question": "Which of the following is a technique for handling missing data?",
+        "options": ["Imputation", "Normalization", "Regularization", "Cross-validation"],
+        "answer": "Imputation"
+    },
+    {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "What is the full form of 'SVM'?",
+        "options": ["Support Vector Machine", "Supervised Vector Machine", "Simple Vector Machine", "Sample Vector Machine"],
+        "answer": "Support Vector Machine"
+    },
+    {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "Which of the following is a supervised learning algorithm?",
+        "options": ["K-means", "Apriori", "Linear Regression", "PCA"],
+        "answer": "Linear Regression"
+    },
+    {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "What does the term 'training set' refer to?",
+        "options": ["A set of data used to train a model", "A set of data used to test a model", "A set of data used to validate a model", "A set of data used to deploy a model"],
+        "answer": "A set of data used to train a model"
+    },
+    {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "Which of the following is not a type of machine learning?",
+        "options": ["Supervised learning", "Unsupervised learning", "Reinforcement learning", "Experimental learning"],
+        "answer": "Experimental learning"
+    },
+    {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "Which of the following is a common application of machine learning?",
+        "options": ["Image recognition", "Speech recognition", "Recommendation systems", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "What is the purpose of the 'test set' in machine learning?",
+        "options": ["To evaluate the performance of the model", "To train the model", "To preprocess the data", "To deploy the model"],
+        "answer": "To evaluate the performance of the model"
+    },
+    {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "Which of the following is used to split data into training and test sets in scikit-learn?",
+        "options": ["train_test_split", "data_split", "train_test_divide", "split_data"],
+        "answer": "train_test_split"
+        },
+        {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "What does 'K' represent in K-means clustering?",
+        "options": ["The number of clusters", "The number of data points", "The number of iterations", "The number of features"],
+        "answer": "The number of clusters"
+        },
+        {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "Which of the following is a metric used to evaluate classification models?",
+        "options": ["Accuracy", "Mean Squared Error", "R-squared", "Root Mean Squared Error"],
+        "answer": "Accuracy"
+        },
+        {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "Which library is commonly used for implementing machine learning algorithms in Python?",
+        "options": ["Scikit-learn", "Django", "NumPy", "Flask"],
+        "answer": "Scikit-learn"
+        },
+        {
+        "domain": "machine learning",
+        "experience": "beginner",
+        "question": "What is overfitting?",
+        "options": ["When a model performs well on training data but poorly on new data", "When a model performs well on new data but poorly on training data", "When a model performs poorly on both training and new data", "When a model performs well on both training and new data"],
+        "answer": "When a model performs well on training data but poorly on new data"
+        },
+        {
+        "domain": "machine learning",
+        "experience": "intermediate",
+        "question": "Which of the following is an unsupervised learning algorithm?",
+        "options": ["K-means", "Linear Regression", "Logistic Regression", "Decision Tree"],
+        "answer": "K-means"
+        },
+        {
+        "domain": "machine learning",
+        "experience": "intermediate",
+        "question": "What is cross-validation?",
+        "options": ["A technique for evaluating a model by training several times on different subsets of the data", "A technique for splitting data into training and test sets", "A method for normalizing data", "A technique for hyperparameter tuning"],
+        "answer": "A technique for evaluating a model by training several times on different subsets of the data"
+        },
+{
+"domain": "machine learning",
+"experience": "intermediate",
+"question": "What is the purpose of regularization in machine learning?",
+"options": ["To prevent overfitting by adding a penalty to the loss function", "To improve model performance on training data", "To handle missing data", "To increase the complexity of the model"],
+"answer": "To prevent overfitting by adding a penalty to the loss function"
+},
+{
+"domain": "machine learning",
+"experience": "intermediate",
+"question": "Which of the following is a loss function commonly used in regression problems?",
+"options": ["Mean Squared Error", "Cross-Entropy", "Hinge Loss", "Log Loss"],
+"answer": "Mean Squared Error"
+},
+{
+"domain": "machine learning",
+"experience": "intermediate",
+"question": "What is the difference between supervised and unsupervised learning?",
+"options": ["Supervised learning uses labeled data, unsupervised learning uses unlabeled data", "Supervised learning uses unlabeled data, unsupervised learning uses labeled data", "Supervised learning is for clustering, unsupervised learning is for classification", "There is no difference"],
+"answer": "Supervised learning uses labeled data, unsupervised learning uses unlabeled data"
+}]
